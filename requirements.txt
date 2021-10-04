@@ -1,0 +1,6 @@
+nltk
+spacy
+gensim
+sklearn
+networkx
+pyenchant

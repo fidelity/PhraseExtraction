@@ -1,0 +1,12 @@
+name: env
+dependencies:
+  - python>=3.6
+  - anaconda
+  - pip
+  - pip:
+    - nltk
+    - spacy
+    - gensim
+    - sklearn
+    - networkx
+    - pyenchant

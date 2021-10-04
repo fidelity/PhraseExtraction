@@ -1,0 +1,16 @@
+=========================================================================
+==      NOTICE file for use with the Apache License, Version 2.0       ==
+=========================================================================
+
+PhraseExtraction
+Copyright 2021 FMR LLC.
+
+This library includes software developed at FMR LLC (https://www.fidelity.com/).
+
+The library requires NLTK, Spacy, Gensim and hence the dependency installed separately.
+- NLTK | https://github.com/nltk/nltk | Apache 2.0 License
+- Spacy | https://github.com/explosion/spaCy | MIT License
+- Gensim | https://github.com/RaRe-Technologies/gensim | LGPL-2.1 License
+- scikit-learn | https://github.com/scikit-learn/scikit-learn | BSD-3-Clause License
+- NetworkX | https://github.com/networkx/networkx | 3-clause BSD license 
+- pyenchant | https://github.com/pyenchant/pyenchant | LGPL-2.1 License
